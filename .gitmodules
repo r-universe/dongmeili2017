@@ -5,6 +5,3 @@
 [submodule "BonEV"]
 	path = BonEV
 	url = https://github.com/cran/BonEV
-[submodule "RBM"]
-	path = RBM
-	url = https://git.bioconductor.org/packages/RBM
